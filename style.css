@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-image: url("./35.gif");
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+}
+
+#errors {
+  border: 5px solid #FF0033;
+  padding: 5px;
+  display: none;
+}
+
+#main p {
+  margin: 0;
+  padding : 0;
+}
+
+#main p.caution {
+  color: #ff6666;
+  font-size: 0.8em;
+}
+
+#main p#submitButton {
+  margin-top: 10px;
+}
+
+textarea {
+  padding: 5px;
+  width: 95%;
+  border: 1px solid black;
+  border-radius: 1em;
+}
+
